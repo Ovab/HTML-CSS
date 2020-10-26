@@ -40,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Opdr2" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,11 +51,14 @@
       <recent name="C:\Users\bavof\Documents\GitHub\HTML&amp;CSS\Opdr2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.OPDR2page2.html">
+  <component name="RunManager" selected="JavaScript Debug.Tabellen.html">
     <configuration name="OPDR2page1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/OPDR2page1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="OPDR2page2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/OPDR2page2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tabellen.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/Tabellen.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/index.html" useBuiltInWebServerPort="true">
@@ -62,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Tabellen.html" />
         <item itemvalue="JavaScript Debug.OPDR2page2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.OPDR2page1.html" />
@@ -77,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603707583047</updated>
       <workItem from="1603707584393" duration="2598000" />
-      <workItem from="1603712786677" duration="2425000" />
+      <workItem from="1603712786677" duration="3793000" />
     </task>
     <servers />
   </component>
@@ -101,5 +106,57 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603713859970" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1603716430507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430507" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1603716430506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430506" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1603716430506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430506" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1603716430507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430507" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1603716430508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1603716430507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430507" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1603716430507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430507" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1603716430508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1603716430508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1603716430508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1603716430508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1603716430508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603715945920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603715945920" />
   </component>
 </project>
