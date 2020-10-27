@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac90f990-14a8-4f34-bed1-bcdab4c04747" name="Default Changelist" comment="" />
+    <list default="true" id="ac90f990-14a8-4f34-bed1-bcdab4c04747" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tabellen.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +42,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Opdr2" />
-    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -51,11 +60,14 @@
       <recent name="C:\Users\bavof\Documents\GitHub\HTML&amp;CSS\Opdr2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Tabellen.html">
+  <component name="RunManager" selected="JavaScript Debug.Tabellen.html (1)">
     <configuration name="OPDR2page1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/OPDR2page1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="OPDR2page2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/OPDR2page2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tabellen.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/Tabellen.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Tabellen.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/Tabellen.html" useBuiltInWebServerPort="true">
@@ -66,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Tabellen.html (1)" />
         <item itemvalue="JavaScript Debug.Tabellen.html" />
         <item itemvalue="JavaScript Debug.OPDR2page2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -83,6 +96,9 @@
       <updated>1603707583047</updated>
       <workItem from="1603707584393" duration="2598000" />
       <workItem from="1603712786677" duration="3793000" />
+      <workItem from="1603723519804" duration="20000" />
+      <workItem from="1603784227721" duration="2445000" />
+      <workItem from="1603787155808" duration="4628000" />
     </task>
     <servers />
   </component>
@@ -154,9 +170,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603716430508" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1603715945920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="403" y="159" key="SettingsEditor" timestamp="1603787149617">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
+    <state x="403" y="159" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1603787149617" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603715945920" />
   </component>
 </project>
