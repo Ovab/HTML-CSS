@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac90f990-14a8-4f34-bed1-bcdab4c04747" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tabellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tabellen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -44,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,17 +54,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bavof\Documents\GitHub\HTML-CSS" />
+      <recent name="C:\Users\bavof\Documents\GitHub\HTML&amp;CSS\Opdr2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bavof\Documents\GitHub\HTML&amp;CSS" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bavof\Documents\GitHub\HTML&amp;CSS\Opdr2" />
-    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Tabellen.html (1)">
-    <configuration name="OPDR2page1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/OPDR2page1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.Wilkens.html">
     <configuration name="OPDR2page2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/OPDR2page2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -74,16 +72,19 @@
     <configuration name="Tabellen.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/Tabellen.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="Wilkens.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/Wilkens.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML&amp;CSS/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Wilkens.html" />
         <item itemvalue="JavaScript Debug.Tabellen.html (1)" />
         <item itemvalue="JavaScript Debug.Tabellen.html" />
         <item itemvalue="JavaScript Debug.OPDR2page2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.OPDR2page1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +101,7 @@
       <workItem from="1603723519804" duration="20000" />
       <workItem from="1603784227721" duration="2445000" />
       <workItem from="1603787155808" duration="4628000" />
-      <workItem from="1603868058975" duration="4230000" />
+      <workItem from="1603868058975" duration="8943000" />
     </task>
     <servers />
   </component>
