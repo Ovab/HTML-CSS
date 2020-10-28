@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabellen</title>
 </head>
 <body>
@@ -100,20 +101,26 @@
 
 <h1>Tabel 12</h1>
 <table border="1">
-    <tr>
-        <th rowspan="4">1</th>
-        <th rowspan="2">2</th>
-        <th rowspan="2">3</th>
-    </tr>
-    <tbody>
-    <tr>
-        <td>5</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>6</td>
-    </tr>
-</table>
+        <tr>
+            <th colspan="4" rowspan="10">&nbsp;1&nbsp;</th>
+            <th colspan="3" rowspan="5">&nbsp;2&nbsp;</th>
+            <th colspan="3" rowspan="4">&nbsp;3&nbsp;</th>
+        </tr>
+        <tr></tr><tr></tr>
+        <tr></tr>
+        <tr>
+            <td colspan="3" rowspan="3">&nbsp;4</td>
+        </tr>
+        <tr>
+            <td colspan="3" rowspan="5">&nbsp;5</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td colspan="3" rowspan="3">&nbsp;6&nbsp;</td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+    </table>
 
 
 </body>
