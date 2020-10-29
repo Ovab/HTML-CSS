@@ -1,0 +1,44 @@
+
+body {
+    width: 960px;
+}
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.a {
+    color: white;
+    background-color: black;
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+}
+
+.a li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.Header { grid-area: 1 / 1 / 2 / 6; width: 960px}
+.Text { grid-area: 2 / 1 / 5 / 4; }
+.Tabel { grid-area: 2 / 4 / 5 / 6; width: 960px}
