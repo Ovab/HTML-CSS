@@ -1,0 +1,44 @@
+body {
+    background: blanchedalmond;
+    width: 1080px;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.a {
+    color: white;
+    background-color: black;
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+}
+
+.a li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px;
+}
+
+
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(9, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.Logo         { grid-area: 1/ span 7; }
+.AppleImg     { grid-area: 2 / 1 / 5 / 4; }
+.BusIMG       { grid-area: 2 / span 5; }
+.DeskIMG      { grid-area: 3 / span 5; }
+.BoardIMG     { grid-area: 4 / span 5; }
+.Article1     { grid-area: 5 / 1 / 10 / 3; }
+.Article2     { grid-area: 5 / 3 / 10 / 5; }
+.Article3     { grid-area: 5 / 5 / 10 / 7; }
