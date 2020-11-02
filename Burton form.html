@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="Burton%20form.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<div class="grid">
+<form action="https://www.savatarian.com/html5/form.php" method="get">
+    <ul>
+        <h3>Exampleform</h3>
+        <div class="txtbox">
+        <label for="firstname">Voornaam: </label>
+        <input type="text" name="voornaam" id="firstname">
+        <label for="mid-name">Tussenvoegsel: </label>
+        <input type="text" name="Tussenvoegsel" id="mid-name">
+        <label for="surname">Achternaam: </label>
+            <input type="text" name="achternaam" id="surname">
+            </div>
+        <div class="radio">
+        <input type="radio" name="geslacht" value="Man"/>
+        &nbsp; Man
+        <input type="radio" name="geslacht" value="Vrouw"/>
+        &nbsp; Vrouw
+    </div>
+
+
+        <div class="eyecol">
+        <p>oogkleur</p>
+        <select name="Kleurogen">
+            <option>Groen</option>
+            <option>Blauw</option>
+            <option>Bruin</option>
+        </select>
+    </div>
+        <div class="Bday">
+        <label for="birthday">Geboortedatum:</label>
+        <input type="date" id="birthday" name="birthday">
+        </div>
+        <div class="notes">
+        <textarea name="omschijving"></textarea>
+        </div>
+        <div class="lekker">
+        <p> lekker eten:</p>
+        <input type="checkbox" name="lekker-eten" value="patat">
+             <span class="checkbox">Patat</span><br>
+        <input type="checkbox" name="lekker-eten" value="bruine bonen">
+             <span class="checkbox">Bruine bonen</span><br>
+        <input type="checkbox" name="lekker-eten" value="linzen">
+                <span class="checkbox">Linzen</span>
+        </div>
+        <input type="submit" name="knop">
+        <input type="reset" name="Cancel">
+    </ul>
+</form>
+</div>
+</body>
+</html>

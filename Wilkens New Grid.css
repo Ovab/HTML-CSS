@@ -33,6 +33,7 @@ a {
 
 .grid {
     display: grid;
+    /* Rows== hoogte. coloms == breedte*/
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(4, 1fr);
     grid-column-gap: 0px;
