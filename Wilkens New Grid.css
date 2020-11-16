@@ -40,6 +40,6 @@ a {
     grid-row-gap: 0px;
 }
 
-.Header { grid-area: 1 / 1 / 2 / 6; width: 960px}
+.Header { grid-area: 1 / 1 / 2 / 5; width: 960px}
 .Text { grid-area: 2 / 1 / 5 / 4; }
-.Tabel { grid-area: 2 / 4 / 5 / 6; width: 960px}
+.Tabel { grid-area: 2 / 4 / 5 / 5; width: 960px}
