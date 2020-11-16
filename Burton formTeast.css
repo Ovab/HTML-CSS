@@ -4,15 +4,21 @@ input{
 }
 body{
     display: grid;
-    grid-template-columns: 5fr 1fr;
-    grid-template-rows: 30px 600px auto;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: 50px 700px 300px auto;
     padding: 0;
     margin: 0;
 }
 
 div#navbar {background: red;
+    grid-column: 1/5;
+}
+div#inputs {background: green;
 grid-column: 1/3;
 }
-div#inputs {background: green;}
-div#inputsR {background: aqua}
-div#buttons{background: blueviolet}
+div#inputsR {background: aqua;
+    grid-column: 2/4;
+}
+div#buttons{background: blueviolet;
+align-content: end;
+}

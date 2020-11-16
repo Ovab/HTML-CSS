@@ -10,42 +10,45 @@
     <h3>Exampleform</h3>
 </div>
 <form action="https://www.savatarian.com/html5/form.php" method="get">
-        <div id="inputs">
-            <label for="firstname">Voornaam: </label>
-            <label for="mid-name">Tussenvoegsel: </label>
-            <label for="surname">Achternaam: </label>
-            <p>man</p>
-            <p> vrouw</p>
-        <input type="text" name="voornaam" id="firstname">
-
-        <input type="text" name="Tussenvoegsel" id="mid-name">
-
-            <input type="text" name="achternaam" id="surname">
-
+    <div id="inputs">
+        <br>
+            &nbsp;Voornaam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="voornaam" id="firstname"><br>
+            &nbsp;Tussenvoegsel:&nbsp;
+        <input type="text" name="Tussenvoegsel" id="mid-name"><br>
+            &nbsp;Achternaam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="achternaam" id="surname"><br>
+        &nbsp;Geslacht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <input type="radio" name="geslacht" value="Man"/>
+        &nbsp;Man&nbsp;&nbsp;&nbsp;
         <input type="radio" name="geslacht" value="Vrouw"/>
-            <p>oogkleur</p>
+            &nbsp;Vrouw<br>
+        &nbsp;Kleur ogen
             <select name="Kleurogen">
                 <option>Groen</option>
                 <option>Blauw</option>
                 <option>Bruin</option>
+                &nbsp;oogkleur
             </select>
-        <label for="birthday">Geboortedatum:</label>
-        <input type="date" id="birthday" name="birthday">
+        <p></p>
+        <br>
+        &nbsp;Geboortedatum
+        <input type="date" id="birthday" name="birthday"><br>
+        &nbsp;Omschrijving&nbsp;&nbsp;
         <textarea name="omschijving"></textarea>
+    </div>
         <div id="inputsR">
         <p> lekker eten:</p>
         <input type="checkbox" name="lekker-eten" value="patat">
-             <span class="checkbox">Patat</span><br>
+             <span class="checkbox">Sperziebonen</span><br>
         <input type="checkbox" name="lekker-eten" value="bruine bonen">
-             <span class="checkbox">Bruine bonen</span><br>
+             <span class="checkbox">Aardappelen</span><br>
         <input type="checkbox" name="lekker-eten" value="linzen">
-                <span class="checkbox">Linzen</span>
+                <span class="checkbox">Hamburger</span>
         </div>
             <div id="buttons">
         <input type="submit" name="knop">
         <input type="reset" name="Cancel">
-        </div>
         </div>
 </form>
 </body>
