@@ -1,24 +1,24 @@
 
 input{
     position: relative;
-}
-body{
+} form{
+    height: 100vh;
     display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-template-rows: 50px 700px 300px auto;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 70px 100px 70px;
     padding: 0;
     margin: 0;
 }
 
-div#navbar {background: red;
-    grid-column: 1/5;
+div#navbar {
+    grid-column: 1/3;
 }
-div#inputs {background: green;
+div#inputs {
+}
+div#inputsR {
+    grid-column: 2/3;
+}
+div#buttons{
+    justify-self: center;
 grid-column: 1/3;
-}
-div#inputsR {background: aqua;
-    grid-column: 2/4;
-}
-div#buttons{background: blueviolet;
-align-content: end;
 }

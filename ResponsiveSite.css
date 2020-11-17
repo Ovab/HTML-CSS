@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+
+@media (min-width: 724px) {
+    body{
+        background-color: purple;
+    }
+}
