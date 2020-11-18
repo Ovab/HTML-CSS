@@ -12,10 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ac90f990-14a8-4f34-bed1-bcdab4c04747" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burton form.css" beforeDir="false" afterPath="$PROJECT_DIR$/Burton form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burton form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Burton form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burton formTeast.css" beforeDir="false" afterPath="$PROJECT_DIR$/Burton formTeast.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResponsiveSite.css" beforeDir="false" afterPath="$PROJECT_DIR$/ResponsiveSite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResponsiveSite.html" beforeDir="false" afterPath="$PROJECT_DIR$/ResponsiveSite.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,8 @@
       <workItem from="1605525831895" duration="2949000" />
       <workItem from="1605529818839" duration="624000" />
       <workItem from="1605530572418" duration="522000" />
-      <workItem from="1605613774142" duration="3753000" />
+      <workItem from="1605613774142" duration="4707000" />
+      <workItem from="1605686444482" duration="5409000" />
     </task>
     <servers />
   </component>

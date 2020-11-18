@@ -4,6 +4,50 @@ body{
 
 @media (min-width: 724px) {
     body{
-        background-color: purple;
+          height: 100vh;
+          display: grid;
+          grid-template-columns: 1fr 4fr;
+          grid-template-rows: 150px 70px 70px;
+          padding: 0;
+          margin: 0;
+      }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .a{
+        justify-self: left;
+        grid-column: 1/3;
+        color: white;
+        background-color: grey;
+        list-style-type: none;
+
+        margin: 0;
+        padding: 0;
+    }
+
+    .a li {
+        display: inline-block;
+        width: 100%;
+        font-size: 20px;
+        padding: 15px;
+    }
+    div#topbar{justify-self: center;
+        grid-column: 1/3;
+    }
+    div#navbar {
+    }
+
+    div#inputs {}
+
+    div#inputsR {
+        grid-column: 2/3;
+    }
+
+    div#buttons{
+        justify-self: center;
+        grid-column: 1/3;
     }
 }
