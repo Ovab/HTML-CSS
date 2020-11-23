@@ -1,9 +1,55 @@
-body{
-    background-color: rebeccapurple;
-}
-@media all and (min-width: 400px) {
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
     body{
-        background-color: green;
+        background-color: chartreuse;
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        grid-template-rows: 160px;
+        grid-column-gap: 50px;
+        margin: 0;
+    }
+    .img{
+        align-self: start;
+        width: 400px;
+    }
+    a {text-decoration: none;color: white}
+
+    ul {
+        margin: 0;
+        padding:0px;
+        grid-column: 1/20;
+        display: flex;
+        list-style: none;
+    }
+    li {
+        grid-column: 1/20;
+        flex: 100%;
+        text-align: center;
+        background-color: grey;
+    }
+    .coolstuff{}
+
+    .table-header-cell{
+        display: table-cell;
+        background-color: gray;
+        padding: 10px;
+        text-align: justify;
+        border-bottom: 1px solid black;
+    }
+
+    .top-bar{grid-column: 1/5; background-color: #66ffff;}
+
+    .bar1 {grid-column: 1}
+
+    .bar2 {grid-column: 2}
+
+    .bar3{grid-column: 2}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    body{
+        background-color: crimson;
         display: grid;
         grid-template-columns: 1fr 4fr;
         grid-template-rows: 160px 50px;
@@ -19,18 +65,21 @@ body{
     ul {
         margin: 0;
         padding:0px;
-        grid-column: 1/5;
+        grid-column: 1/20;
         display: flex;
+        justify-content: space-around;
         list-style: none;
     }
     li {
-        grid-column: 1/5;
+
         flex: 100%;
-        text-align: left;
+        text-align: center;
         background-color: grey;
     }
 
-    .top-bar{grid-column: 1/5; background-color: #66ffff;}
+    .coolstuff{display: none}
+
+    .top-bar{grid-column: 1/20; background-color: #66ffff;}
 
     .bar1 {grid-column: 1}
 
@@ -39,45 +88,8 @@ body{
     .bar3{grid-column: 2}
 }
 
-@media all and (min-width: 900px) {
-    body{
-        background-color: green;
-        display: grid;
-        grid-template-columns: 1fr 4fr;
-        grid-template-rows: 160px 50px;
-        grid-column-gap: 50px;
-        margin: 0;
-    }
-    .img{
-        align-self: start;
-        width: 400px;
-    }
-    a {text-decoration: none;color: white}
-
-    ul {
-        margin: 0;
-        padding:0px;
-        grid-column: 1/5;
-        display: flex;
-        list-style: none;
-    }
-    li {
-        grid-column: 1/5;
-        flex: 100%;
-        text-align: left;
-        background-color: grey;
-    }
-
-    .top-bar{grid-column: 1/5; background-color: #66ffff;}
-
-    .bar1 {grid-column: 1}
-
-    .bar2 {grid-column: 2}
-
-    .bar3{grid-column: 2}
-}
-
-@media all and (min-width:1300px) {
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
     body{
         background-color: blanchedalmond;
         display: grid;
@@ -93,18 +105,17 @@ body{
     ul {
         margin: 0;
         padding:0px;
-        grid-column: 1/4;
+        grid-column: 1/20;
         display: flex;
         list-style: none;
     }
     li {
-        grid-column: 1/4;
+        grid-column: 1/40;
         flex: 100%;
         text-align: left;
         background-color: grey;
     }
-
-    .top-bar{grid-column: 1/4; background-color: #66ffff;}
+    .top-bar{grid-column: 1/20; background-color: #66ffff;}
 
     .bar1 {grid-column: 1;}
 
@@ -112,3 +123,48 @@ body{
 
     .bar3{grid-column: 3;}
 }
+/*
+
+@media screen and (max-width: 1100px) {
+    body{
+        background-color: green;
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        grid-template-rows: 160px 50px;
+        grid-column-gap: 50px;
+        margin: 0;
+    }
+    .img{
+        align-self: start;
+        width: 400px;
+    }
+    a {text-decoration: none;color: white}
+
+    ul {
+        margin: 0;
+        padding:0px;
+        grid-column: 1/5;
+        display: flex;
+        list-style: none;
+    }
+    li {
+        grid-column: 1/5;
+        flex: 200%;
+        text-align: left;
+        background-color: grey;
+    }
+    .coolstuff{}
+
+    .top-bar{grid-column: 1/5; background-color: #66ffff;}
+
+    .bar1 {grid-column: 1}
+
+    .bar2 {grid-column: 2}
+
+    .bar3{grid-column: 2}
+}
+@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 500px) {
+
+*/
