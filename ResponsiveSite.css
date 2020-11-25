@@ -1,7 +1,7 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media all and (min-width: 600px) {
     body{
-        background-color: chartreuse;
+        background-color: blanchedalmond;
         display: grid;
         grid-template-columns: 1fr 4fr;
         grid-template-rows: 160px 50px 50px 50px 50px 50px;
@@ -68,7 +68,7 @@
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 800px) {
     body{
-        background-color: crimson;
+        background-color: blanchedalmond;
         display: grid;
         grid-template-columns: 1fr 4fr;
         grid-template-rows: 160px 50px;
@@ -111,7 +111,7 @@
 
     .bar2 {grid-column: 2}
 
-    .bar3{grid-column: 3}
+    .bar3{grid-column: 2}
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
